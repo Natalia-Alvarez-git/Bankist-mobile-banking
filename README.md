@@ -1,8 +1,13 @@
 # Bankist Website
 
-<img width="1698" alt="bankist website" src="https://user-images.githubusercontent.com/112902224/233226409-f693e2ae-7bce-4058-b299-27ec97d34719.png">
+Bankist is a Website for a mobile bank. It promotes the online banking platform that offers a host of exciting features and benefits. With Bankist, you can enjoy all the perks of a traditional bank, combined with the convenience of modern digital banking.
 
 Bankist is a Website for a mobile bank. It promotes the online banking platform that offers a host of exciting features and benefits. With Bankist, you can enjoy all the perks of a traditional bank, combined with the convenience of modern digital banking.
+
+<img width="1698" alt="bankist website" src="https://user-images.githubusercontent.com/112902224/233226409-f693e2ae-7bce-4058-b299-27ec97d34719.png">
+
+### Live Application
+You can access the live application by following this link: [Bankist](https://bankist-dom.netlify.app/)
 
 ### The website includes:
 * Bankist features
